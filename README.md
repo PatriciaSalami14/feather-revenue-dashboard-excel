@@ -34,7 +34,7 @@ Dashboard Development
 
 Dashboard Preview
 
-See the dashboard screenshot in the "visuals" folder.
+![Revenue Dashboard Preview](visuals/dashboard-overview.png)
 
 Key Skills Demonstrated
 
